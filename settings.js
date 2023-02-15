@@ -51,10 +51,10 @@ global.mess = {
 }
 
 //media target
-global.thum = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XcocoMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://i.ibb.co/DVv5K1w/IMG-20230128-WA0041.png") //ur thumb pic
+global.log0 = fs.readFileSync("https://i.ibb.co/m4g08Rm/IMG-20230128-WA0061.jpg") //ur logo pic
+global.err4r = fs.readFileSync(".https://i.ibb.co/DVv5K1w/IMG-20230128-WA0041.png") //ur error pic
+global.thumb = fs.readFileSync("https://i.ibb.co/m4g08Rm/IMG-20230128-WA0061.jpg") //ur thumb pic
 
 //menu image maker
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
